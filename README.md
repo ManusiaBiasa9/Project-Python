@@ -33,35 +33,51 @@ Dibutuhkan sistem kasir self-service, agar customer bisa langsung memasukkan ite
   ![image](https://github.com/ManusiaBiasa9/Project-Python/assets/111839443/ccf75183-929a-4ba9-977e-28b7985df9e9)
 
 * update_item_name()
+
   Fungsi untuk mengubah nama barang
+
   ![image](https://github.com/ManusiaBiasa9/Project-Python/assets/111839443/8361505d-99a7-442b-bd47-f0c01b44a6a4)
 
 * update_item_qty()
+
   Fungsi untuk mengubah jumlah barang
+
   ![image](https://github.com/ManusiaBiasa9/Project-Python/assets/111839443/8aaccc71-7d21-489a-8590-156aa94f1f5c)
 
 * update_item_price()
+
   Fungsi untuk mengubah jumlah barang
+
   ![image](https://github.com/ManusiaBiasa9/Project-Python/assets/111839443/386b3bf8-410d-47de-8b51-dd5bcf51611f)
 
 * show_order()
+
   Fungsi untuk melihat list pesanan sementara
+
   ![image](https://github.com/ManusiaBiasa9/Project-Python/assets/111839443/783d2bc8-2081-47c5-b109-bf6a9ff63d1a)
 
 * delete_item()
+
   Fungsi untuk menghapus item
+
   ![image](https://github.com/ManusiaBiasa9/Project-Python/assets/111839443/4ae7bd14-e607-4a57-810f-be35d7f0df04)
 
 * reset_transaction()
+
   Fungsi untuk menghapus seluruh item
+
   ![image](https://github.com/ManusiaBiasa9/Project-Python/assets/111839443/745d5ffd-ac93-48c6-9d35-6bf8dcf1a2d9)
 
 * check_order()
+
   Fungsi untuk memvalidasi format pemesanan barang sebelum pembayaran
+
   ![image](https://github.com/ManusiaBiasa9/Project-Python/assets/111839443/2ff9b364-a252-4d1e-96fd-9f76b2ca5ce0)
 
 * total_price()
+
   Fungsi untuk menghitung diskon dan total belanjaan
+
   ![image](https://github.com/ManusiaBiasa9/Project-Python/assets/111839443/4068e9de-f92a-4cc4-8af3-aded1dc8213a)
 
 ## Hasil Test Case
