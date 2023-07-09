@@ -21,7 +21,9 @@ Dibutuhkan sistem kasir self-service, agar customer bisa langsung memasukkan ite
 ## Penjelasan Code
 
 * init()
+
 Fungsi inisialisasi class Transaction
+
 ![image](https://github.com/ManusiaBiasa9/Project-Python/assets/111839443/fdb9c0be-6c80-4ff8-9759-a9e398cfac25)
 
 * add_item()
